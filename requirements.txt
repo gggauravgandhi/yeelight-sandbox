@@ -1,0 +1,6 @@
+numpy
+click
+cv2
+pyautogui
+colorsys
+yeelight
